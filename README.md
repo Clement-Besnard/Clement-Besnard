@@ -1,12 +1,12 @@
-# Salut, moi c'est Clément 👋
+# Hello, je m'appelle Clément !
 
-🎓 Étudiant en troisième année en Ingénierie du Numérique à [Efrei Paris](https://www.efrei.fr/).  
-🤖 Spécialisé en agentique, systèmes intelligents et développement back-end robuste.
+🎓 Étudiant en deuxième année d'Ingénieur en Systèmes Robotiques à [Efrei Paris](https://www.efrei.fr/).  
+🤖 Spécialisé en agentique, systèmes embarqués/intelligents et développement full-stack.
 
 ---
 
 ## 🔥 Projets et expériences
-- **Awels Engineering** (2024 - Aujourd'hui)  
+- **Awels Engineering** (Octobre 2024 - Juillet 2025)  
   ➔ Stack Docker Compose, Chatbot sur Druid AI, pipeline OpenShift, agents autonomes en Python.
   
 - **Overlayer** (Été 2024)  
