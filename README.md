@@ -20,13 +20,13 @@
 ## 🛠️ Compétences principales
 - **Langages** : Python, HTML, CSS, JavaScript, PHP, MySQL
 - **Outils** : Docker, RedHat OpenShift, Github, Figma
-- **IA/Agentique** : Autogen Studio, Flowise
+- **IA/Agentique** : Autogen Studio, Flowise, Ollama, OpenWeb UI, Langflow
 
 ---
 
 ## 🌍 Langues
 - Français (Natif)
-- Anglais (B2)
+- Anglais (C1)
 
 ---
 
