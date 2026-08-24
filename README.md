@@ -63,8 +63,3 @@ Built low-code web applications and integrated third-party APIs to make site con
 French (Native) · English (C1 — TOEIC 970)
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Clement-Besnard&show_icons=true&hide_border=true&theme=github_dark&hide_title=true" alt="GitHub Stats" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clement-Besnard&layout=compact&hide_border=true&theme=github_dark" alt="Top Languages" height="160">
-</p>
