@@ -1,41 +1,70 @@
-# Qui suis-je ?
+<h1 align="center">Clément Besnard</h1>
 
-🎓 Étudiant en deuxième année d'Ingénieur en Systèmes Robotiques à [Efrei Paris](https://www.efrei.fr/).  
-🤖 Spécialisé en agentique, systèmes embarqués/intelligents et développement full-stack.
+<p align="center">
+  Robotics & Embedded Systems Engineering Student · Agentic AI · Backend
+</p>
 
----
-
-## 🔥 Projets et expériences
-- **Awels Engineering** (Octobre 2024 - Juillet 2025)  
-  ➔ Stack Docker Compose, Chatbot sur Druid AI, pipeline OpenShift, agents autonomes en Python.
-  
-- **Overlayer** (Été 2024)  
-  ➔ Développement d'un service de transcription audio avec FastAPI, Docker, GCP, IA (Whisper, MistralAI).
-
-- **Devoteam** (Été 2023)  
-  ➔ Développement web low-code avec OutSystems et intégration d'API.
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:clementbesnard24@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
+  <img src="https://img.shields.io/badge/Paris-France-555?style=flat&logo=googlemaps&logoColor=white" alt="Location">
+</p>
 
 ---
 
-## 🛠️ Compétences principales
-- **Langages** : Python, HTML, CSS, JavaScript, PHP, MySQL
-- **Outils** : Docker, RedHat OpenShift, Github, Figma
-- **IA/Agentique** : Autogen Studio, Flowise, Ollama, OpenWeb UI, Langflow
+### About
+
+Second-year engineering student at [Efrei Paris](https://www.efrei.fr/), majoring in Robotic Systems & Drones. I build autonomous agent systems, backend services, and data pipelines — and I run a homelab where most of it gets deployed and stress-tested.
+
+**Currently looking for a 20-week internship in robotics or automation, starting November 2026.** Open to positions in France and across Europe.
 
 ---
 
-## 🌍 Langues
-- Français (Natif)
-- Anglais (C1)
+### Experience
+
+**Backend & Agentic Developer** — Awels Engineering · *Sept 2024 – July 2025*
+Built a Docker Compose stack, designed a chatbot interface and agent flow logic on Druid AI, developed autonomous agent teams in Python, and maintained an OpenShift CI/CD pipeline.
+
+**Backend Developer Intern** — Overlayer · *Summer 2024*
+Developed an audio transcription and analysis service using Whisper and MistralAI, wrapped in FastAPI, dockerized and deployed on Google Cloud Platform.
+
+**OutSystems Developer Intern** — Devoteam · *Summer 2023*
+Built low-code web applications and integrated third-party APIs to make site content reactive.
 
 ---
 
-## 📫 Me contacter
-- 📧 [clementbesnard24@gmail.com](mailto:clementbesnard24@gmail.com)
-- 📍 Paris, France
-- 🔗 [Mon GitHub](https://github.com/Clement-Besnard)
+### Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [**MyEfrei-React**](https://github.com/Clement-Besnard/MyEfrei-React) | Web platform for managing Efrei academic resources, with role-based features per user type | React, Node.js, PostgreSQL |
+| [**Awels-Python-Interface**](https://github.com/ClemsAwels/Awels-Python-Interface) | Python interface layer built during my time at Awels Engineering | Python |
+| [**llm-stack**](https://github.com/Clement-Besnard/llm-stack) | Self-hosted LLM stack for local inference and agent experimentation | Python, Docker |
+| [**CoverMyLetter**](https://github.com/Clement-Besnard/CoverMyLetter) | Cover letter generation tool | JavaScript |
 
 ---
 
-## 📈 Statistiques GitHub
-![Mes Stats](https://github-readme-stats.vercel.app/api?username=Clement-Besnard&show_icons=true&theme=radical)
+### Tech Stack
+
+**Languages** · Python · JavaScript · PHP · SQL
+
+**Backend & Infra** · FastAPI · Node.js · Docker · RedHat OpenShift · GitHub Actions · GCP · Linux
+
+**AI & Agentic** · AutoGen Studio · LangFlow · Flowise · Ollama · Open WebUI · Whisper
+
+**Frontend & Design** · React · HTML/CSS · Figma
+
+**Databases** · PostgreSQL · MySQL
+
+---
+
+### Languages
+
+French (Native) · English (C1 — TOEIC 970)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Clement-Besnard&show_icons=true&hide_border=true&theme=github_dark&hide_title=true" alt="GitHub Stats" height="160">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clement-Besnard&layout=compact&hide_border=true&theme=github_dark" alt="Top Languages" height="160">
+</p>
