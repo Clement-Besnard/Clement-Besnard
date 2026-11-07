@@ -39,7 +39,7 @@ Built low-code web applications and integrated third-party APIs to make site con
 |---|---|---|
 | [**MyEfrei-React**](https://github.com/Clement-Besnard/MyEfrei-React) | Web platform for managing Efrei academic resources, with role-based features per user type | React, Node.js, PostgreSQL |
 | [**Awels-Python-Interface**](https://github.com/ClemsAwels/Awels-Python-Interface) | Python interface layer built during my time at Awels Engineering | Python |
-| [**llm-stack**](https://github.com/Clement-Besnard/llm-stack) | Self-hosted LLM stack for local inference and agent experimentation | Python, Docker |
+| [**Carmen**](https://github.com/Clement-Besnard/carmen) | Self-hosted Ollama with a web dashboard to load models into VRAM, edit system prompts and rebuild custom models | Python, FastAPI, React, Docker |
 | [**CoverMyLetter**](https://github.com/Clement-Besnard/CoverMyLetter) | Cover letter generation tool | JavaScript |
 
 ---
